@@ -1,0 +1,1 @@
+This project includes my code to build a self-supervised transformer model from scratch. The model consists of a ViT-8 backbone with an MLP head. It is trained on provided data with several training schedulers. There is an initial training script and a post-training script. Additionally, there is a script for evaluating the frozen model on test data with logistic regression.
